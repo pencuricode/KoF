@@ -1,0 +1,32 @@
+{
+  "name": "magermp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syahniar Baharudin Taher",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "axios": "^0.21.1",
+    "canvacord": "^5.2.1",
+    "client": "^0.0.1",
+    "discord-buttons": "^3.2.1",
+    "discord-canvas": "^1.4.1",
+    "discord-embed-page": "^1.0.0",
+    "discord-player": "^4.1.0",
+    "discord-ytdl-core": "^5.0.3",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "embed-paginator": "^1.0.2",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "merge-options": "^3.0.4",
+    "node-fetch": "^2.6.1",
+    "spotify-url-info": "^2.2.3",
+    "ytpl": "^2.2.1",
+    "ytsr": "^3.5.0"
+  }
+}
